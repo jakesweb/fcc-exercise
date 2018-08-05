@@ -1,2 +1,5 @@
-# fcc-exercise
-FCC API and Microservice Project 4
+# Exercise Tracker REST API
+
+#### A microservice project, part of Free Code Camp's curriculum
+
+
